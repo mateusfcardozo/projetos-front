@@ -2,7 +2,7 @@ body {
     background-color: black;
     overflow: hidden;
 }
-
+/* tirar a sombra */
 main::after {
     content: "aa";
     position: fixed;
